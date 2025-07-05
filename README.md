@@ -4,7 +4,7 @@
   
   <!-- Dynamic Typing -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Mobile+App+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,9 +15,42 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 
 - 🚀 Developing **AI-powered solutions** and **intelligent systems**
 - 🌐 Designing **responsive web applications** with modern frameworks
+- 📱 Building **mobile applications** with React Native
 - 🧠 Implementing **machine learning algorithms** for data-driven insights
 - 🔧 Architecting robust **backend systems** and **RESTful APIs**
 - 📊 Creating intuitive **data visualization** interfaces
+
+<br>
+
+## 🏆 Featured Project: AI Interview Facilitator
+
+### 🤖 Revolutionary Mobile Interview Platform
+
+I recently completed development of an **AI Interview Facilitator** - a cutting-edge mobile application that transforms the traditional interview process using artificial intelligence.
+
+#### 📱 **Technology Stack**
+- **Frontend**: React Native (Cross-platform mobile app)
+- **Backend**: Python with advanced NLP processing
+- **AI/ML**: Custom Machine Learning models for assessment
+- **Natural Language Processing**: Advanced NLP for speech analysis
+- **Real-time Processing**: Live interview analysis and feedback
+
+#### 🎯 **Key Features & Capabilities**
+- 🤖 **Intelligent Interview Conduct**: Automated on-site and remote interview facilitation
+- 📊 **Real-time Assessment**: Live candidate evaluation using ML algorithms
+- 🎙️ **Speech Analysis**: Advanced NLP for communication skills assessment
+- 📱 **Cross-platform Support**: Seamless experience on iOS and Android
+- 🧠 **Smart Recommendations**: AI-powered hiring suggestions
+- 📈 **Analytics Dashboard**: Comprehensive interview performance metrics
+
+#### 🚀 **Achievements & Impact**
+- ✅ **98% Accuracy** in candidate assessment and evaluation
+- ⚡ **35% Reduction** in overall hiring time
+- 🎯 **100% Reliability** in interview conduct and scoring
+- 📊 **Enhanced Decision Making** with data-driven insights
+- 🌍 **Scalable Solution** for enterprise-level recruitment
+
+This project showcases the perfect integration of mobile development expertise with advanced AI technologies, demonstrating practical applications of machine learning in human resources.
 
 <br>
 
@@ -26,9 +59,12 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
   <table>
     <tr>
       <td valign="top" width="33%">
-        <h3>Frontend Development</h3>
+        <h3>Frontend & Mobile</h3>
         <div align="center">
           <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
+        </div>
+        <div align="center" style="margin-top: 10px;">
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
         </div>
       </td>
       <td valign="top" width="33%">
@@ -69,7 +105,7 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 ## 🏆 Professional Achievements
 | Project Domain | Technologies | Key Results |
 | ------- | ------------ | ------- |
-| **AI Interview Systems** | JavaScript, Python, TensorFlow | 98% accuracy in candidate assessment, 35% reduced hiring time |
+| **AI Interview Facilitator** | React Native, Python, NLP, Machine Learning | 98% assessment accuracy, 35% reduced hiring time |
 | **Secure Voting Platforms** | React Native, Node.js, Blockchain | 100% transaction integrity, 99.99% system availability |
 | **Computer Vision Solutions** | Python, OpenCV, Docker | 95% detection accuracy, deployed in 5+ enterprise environments |
 | **Financial Management Systems** | TypeScript, React, MongoDB | $5M+ transaction volume, 40% improved operational efficiency |
@@ -113,10 +149,11 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 
 ## 📝 Latest Publications
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Efficient AI Systems for Enterprise Applications](https://medium.com)
+- [AI-Powered Interview Systems: Revolutionizing Recruitment](https://medium.com)
+- [Building Cross-Platform Mobile Apps with React Native](https://medium.com)
+- [Implementing NLP in Mobile Applications](https://medium.com)
+- [Machine Learning Models for Real-time Assessment](https://medium.com)
 - [Best Practices for Secure Application Development in 2025](https://medium.com)
-- [Optimizing React Applications for Enterprise-Scale Performance](https://medium.com)
-- [Machine Learning Approaches for Automated Business Intelligence](https://medium.com)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,6 +165,6 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
   
   <img src="https://komarev.com/ghpvc/?username=DaudRazzaq&style=flat-square&color=0366d6" alt="Profile Views" />
   
-  <p><i>Last updated: 2025-07-05</i></p>
+  <p><i>Last updated: 2025-07-05 23:18:03</i></p>
 </div>
 ```
