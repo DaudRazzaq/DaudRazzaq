@@ -1,11 +1,6 @@
 <div align="center">
-  <!-- Profile Banner with GitHub Avatar -->
-  <img src="https://avatars.githubusercontent.com/u/DaudRazzaqi" width="150" height="150" style="border-radius:50%; margin-bottom:10px" />
-  <h1>Daud Razzaqi</h1>
-  <p><i>Full Stack & Mobile App Developer | AI Engineer</i></p>
-  
-  <!-- Gradient Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <!-- Professional Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daud%20Razzaq&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer%20%7C%20AI%20Engineer&descAlignY=60" width="100%">
   
   <!-- Animated Text -->
   <a href="https://git.io/typing-svg">
@@ -71,17 +66,17 @@ This platform stands at the intersection of mobile development and artificial in
 
 ## 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaudRazzaqi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="192px" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaqi&theme=github_dark&hide_border=true" height="192px" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DaudRazzaq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="192px" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaq&theme=github_dark&hide_border=true" height="192px" width="49.5%"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaqi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%">
 </div>
 
 <br>
 
 ## 📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaudRazzaqi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8" width="98%" alt="contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaudRazzaq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8" width="98%" alt="contribution graph">
 </div>
 
 <br>
@@ -99,12 +94,12 @@ This platform stands at the intersection of mobile development and artificial in
 
 ## 💻 Development Metrics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaudRazzaqi&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaudRazzaq&theme=github_dark" width="100%" />
   
   <div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaudRazzaqi&theme=github_dark" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaudRazzaqi&theme=github_dark" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaudRazzaqi&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaudRazzaq&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaudRazzaq&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaudRazzaq&theme=github_dark" width="32%" />
   </div>
 </div>
 
@@ -112,19 +107,19 @@ This platform stands at the intersection of mobile development and artificial in
 
 ## 🌐 Professional Network
 <div align="center">
-  <a href="https://linkedin.com/in/daud-razzaqi" target="_blank">
+  <a href="https://linkedin.com/in/daud-razzaq" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://daud-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:daud.razzaqi@example.com" target="_blank">
+  <a href="mailto:daud.razzaq@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://medium.com/@daud.razzaqi" target="_blank">
+  <a href="https://medium.com/@daud.razzaq" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://github.com/DaudRazzaqi" target="_blank">
+  <a href="https://github.com/DaudRazzaq" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -143,10 +138,10 @@ This platform stands at the intersection of mobile development and artificial in
 
 <div align="center">
   <!-- Animated Footer -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%">
   
-  <img src="https://komarev.com/ghpvc/?username=DaudRazzaqi&style=flat-square&color=0366d6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DaudRazzaq&style=flat-square&color=0366d6" alt="Profile Views" />
   
-  <p><i>Last updated: 2025-07-05 23:05:52</i></p>
+  <p><i>Last updated: 2025-07-05 23:08:14</i></p>
 </div>
 ```
