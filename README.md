@@ -22,38 +22,6 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 
 <br>
 
-## 🏆 Featured Project: AI Interview Facilitator
-
-### 🤖 Revolutionary Mobile Interview Platform
-
-I recently completed development of an **AI Interview Facilitator** - a cutting-edge mobile application that transforms the traditional interview process using artificial intelligence.
-
-#### 📱 **Technology Stack**
-- **Frontend**: React Native (Cross-platform mobile app)
-- **Backend**: Python with advanced NLP processing
-- **AI/ML**: Custom Machine Learning models for assessment
-- **Natural Language Processing**: Advanced NLP for speech analysis
-- **Real-time Processing**: Live interview analysis and feedback
-
-#### 🎯 **Key Features & Capabilities**
-- 🤖 **Intelligent Interview Conduct**: Automated on-site and remote interview facilitation
-- 📊 **Real-time Assessment**: Live candidate evaluation using ML algorithms
-- 🎙️ **Speech Analysis**: Advanced NLP for communication skills assessment
-- 📱 **Cross-platform Support**: Seamless experience on iOS and Android
-- 🧠 **Smart Recommendations**: AI-powered hiring suggestions
-- 📈 **Analytics Dashboard**: Comprehensive interview performance metrics
-
-#### 🚀 **Achievements & Impact**
-- ✅ **98% Accuracy** in candidate assessment and evaluation
-- ⚡ **35% Reduction** in overall hiring time
-- 🎯 **100% Reliability** in interview conduct and scoring
-- 📊 **Enhanced Decision Making** with data-driven insights
-- 🌍 **Scalable Solution** for enterprise-level recruitment
-
-This project showcases the perfect integration of mobile development expertise with advanced AI technologies, demonstrating practical applications of machine learning in human resources.
-
-<br>
-
 ## 🛠️ Technical Expertise
 <div align="center">
   <table>
@@ -106,6 +74,7 @@ This project showcases the perfect integration of mobile development expertise w
 | Project Domain | Technologies | Key Results |
 | ------- | ------------ | ------- |
 | **AI Interview Facilitator** | React Native, Python, NLP, Machine Learning | 98% assessment accuracy, 35% reduced hiring time |
+| **AI Interview Systems** | JavaScript, Python, TensorFlow | 98% accuracy in candidate assessment, 35% reduced hiring time |
 | **Secure Voting Platforms** | React Native, Node.js, Blockchain | 100% transaction integrity, 99.99% system availability |
 | **Computer Vision Solutions** | Python, OpenCV, Docker | 95% detection accuracy, deployed in 5+ enterprise environments |
 | **Financial Management Systems** | TypeScript, React, MongoDB | $5M+ transaction volume, 40% improved operational efficiency |
@@ -147,17 +116,6 @@ This project showcases the perfect integration of mobile development expertise w
 
 <br>
 
-## 📝 Latest Publications
-<!-- BLOG-POST-LIST:START -->
-- [AI-Powered Interview Systems: Revolutionizing Recruitment](https://medium.com)
-- [Building Cross-Platform Mobile Apps with React Native](https://medium.com)
-- [Implementing NLP in Mobile Applications](https://medium.com)
-- [Machine Learning Models for Real-time Assessment](https://medium.com)
-- [Best Practices for Secure Application Development in 2025](https://medium.com)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=100&section=footer&animation=fadeIn" width="100%">
   
@@ -165,6 +123,6 @@ This project showcases the perfect integration of mobile development expertise w
   
   <img src="https://komarev.com/ghpvc/?username=DaudRazzaq&style=flat-square&color=0366d6" alt="Profile Views" />
   
-  <p><i>Last updated: 2025-07-05 23:18:03</i></p>
+  <p><i>Last updated: 2025-07-05 23:20:25</i></p>
 </div>
 ```
