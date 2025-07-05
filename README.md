@@ -1,54 +1,6 @@
 <div align="center">
-  <!-- SVG Header with Animation -->
-  <svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .header-text {
-        font-family: 'Inter', sans-serif;
-        font-size: 48px;
-        font-weight: 700;
-        fill: #fff;
-      }
-      .subtitle {
-        font-family: 'Inter', sans-serif;
-        font-size: 18px;
-        fill: #fff;
-        opacity: 0.9;
-      }
-      .background {
-        fill: url(#gradient);
-        rx: 10;
-        ry: 10;
-      }
-      @keyframes float {
-        0% { transform: translateY(0px); }
-        50% { transform: translateY(-10px); }
-        100% { transform: translateY(0px); }
-      }
-      .animate-float {
-        animation: float 3s ease-in-out infinite;
-      }
-      @keyframes gradientShift {
-        0% { stop-color: #0366d6; }
-        50% { stop-color: #2ea44f; }
-        100% { stop-color: #0366d6; }
-      }
-      .gradient-start, .gradient-end {
-        animation: gradientShift 8s ease-in-out infinite;
-      }
-    </style>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(10)">
-        <stop offset="0%" class="gradient-start" stop-color="#0366d6" />
-        <stop offset="50%" stop-color="#2ea44f" />
-        <stop offset="100%" class="gradient-end" stop-color="#0366d6" />
-      </linearGradient>
-    </defs>
-    <rect class="background" width="800" height="120" />
-    <g class="animate-float">
-      <text x="400" y="65" class="header-text" text-anchor="middle">Daud Razzaq</text>
-      <text x="400" y="95" class="subtitle" text-anchor="middle">Full Stack & Mobile App Developer | AI Engineer</text>
-    </g>
-  </svg>
+  <!-- Profile Banner - GitHub Compatible Version -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Daud%20Razzaq&fontSize=70&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20App%20Developer%20%7C%20AI%20Engineer&descAlignY=60&animation=fadeIn" width="100%">
   
   <!-- Animated Text -->
   <a href="https://git.io/typing-svg">
@@ -76,7 +28,9 @@ I'm a seasoned **Full-Stack & Mobile Developer** and **AI Engineer** focused on 
       <td valign="top" width="33%">
         <h3>Frontend & Mobile</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,redux,tailwind,css,html" />
+          <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,css,html" />
+          <br>
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactNative-Dark.svg" width="48px">
         </div>
       </td>
       <td valign="top" width="33%">
