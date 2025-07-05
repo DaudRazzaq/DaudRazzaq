@@ -1,11 +1,13 @@
 <div align="center">
-  <!-- Profile Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=200&section=header&text=Daud%20Razzaq&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=62" width="100%">
+  <!-- Profile Banner with Enhanced Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=200&section=header&text=Daud%20Razzaq&fontSize=70&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=62" width="100%">
   
-  <!-- Dynamic Typing -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-  </a>
+  <!-- Animated Text with SVGator-style animation -->
+  <div style="margin-top: -40px; margin-bottom: 20px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
 
 <br>
