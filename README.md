@@ -1,144 +1,133 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=200&section=header&text=Daud%20Razzaq&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer%20%7C%20AI%20Engineer&descAlignY=51&descAlign=62" width="100%"/>
+  <!-- Profile Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=200&section=header&text=Daud%20Razzaq&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=62" width="100%">
+  
+  <!-- Dynamic Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br>
 
 ## 👨‍💻 About Me
+I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on delivering high-quality software solutions. With a strong foundation in both front-end and back-end technologies, I specialize in creating scalable, efficient applications that solve real business challenges.
 
-I'm a passionate **Full-Stack & Mobile Developer** and **AI Engineer** specializing in innovative software solutions. With extensive experience in React Native and artificial intelligence, I create intelligent applications that transform traditional business processes and deliver exceptional user experiences.
+- 🚀 Developing **AI-powered solutions** and **intelligent systems**
+- 🌐 Designing **responsive web applications** with modern frameworks
+- 🧠 Implementing **machine learning algorithms** for data-driven insights
+- 🔧 Architecting robust **backend systems** and **RESTful APIs**
+- 📊 Creating intuitive **data visualization** interfaces
 
-### 🚀 Current Focus
-- **AI-Powered Mobile Solutions**: Developing intelligent cross-platform applications
-- **React Native Development**: Building scalable mobile applications for iOS and Android
-- **Machine Learning Integration**: Implementing AI algorithms for real-world applications
-- **Interview Technology**: Creating advanced AI systems for recruitment and assessment
+<br>
 
----
-
-## 🛠️ Technical Stack
-
+## 🛠️ Technical Expertise
 <div align="center">
-
-### Frontend & Mobile Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI & Cloud Technologies
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3>Frontend Development</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Backend Development</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,graphql,postgresql" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>AI & Cloud Infrastructure</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,gcp,docker,kubernetes,mongodb,mysql" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br>
 
-## 🏆 Featured Project: AI Interview Facilitator
-
-**Revolutionary AI-Powered Interview Platform**
-
-I recently completed development of an advanced AI Interview Facilitator that's transforming the recruitment landscape:
-
-### Key Features & Achievements
-- 🤖 **Intelligent Assessment**: Conducts comprehensive on-site and remote interviews
-- 📊 **Real-time Analytics**: Provides instant feedback and detailed candidate evaluation
-- 🎯 **98% Accuracy Rate**: Highly precise candidate assessment and scoring
-- ⚡ **35% Time Reduction**: Streamlined hiring process with faster decision-making
-- 🔧 **Advanced Tech Stack**: Built with React Native, TensorFlow, and NLP technologies
-
-### Impact
-This platform demonstrates the practical application of AI in human resources, combining mobile development expertise with machine learning to create a solution that enhances hiring efficiency while maintaining assessment quality.
-
----
-
-## 📊 GitHub Analytics
-
+## 📊 Performance Metrics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaudRazzaq&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaq&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DaudRazzaq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="192px" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaq&theme=github_dark&hide_border=true" height="192px" width="49.5%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%">
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaq&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
----
+<br>
 
 ## 📈 Contribution Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaudRazzaq&theme=github-compact&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaudRazzaq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8" width="98%" alt="contribution graph">
 </div>
 
----
+<br>
 
-## 💼 Professional Experience
+## 🏆 Professional Achievements
+| Project Domain | Technologies | Key Results |
+| ------- | ------------ | ------- |
+| **AI Interview Systems** | JavaScript, Python, TensorFlow | 98% accuracy in candidate assessment, 35% reduced hiring time |
+| **Secure Voting Platforms** | React Native, Node.js, Blockchain | 100% transaction integrity, 99.99% system availability |
+| **Computer Vision Solutions** | Python, OpenCV, Docker | 95% detection accuracy, deployed in 5+ enterprise environments |
+| **Financial Management Systems** | TypeScript, React, MongoDB | $5M+ transaction volume, 40% improved operational efficiency |
+| **Administrative Dashboards** | JavaScript, Material UI, Data Visualization | 30% increased user productivity, 50% faster decision-making |
 
-| Project Domain | Technologies Used | Key Achievements |
-|---|---|---|
-| **AI Interview Systems** | React Native, TensorFlow, NLP | 98% assessment accuracy, 35% reduced hiring time |
-| **Secure Voting Platforms** | React Native, Node.js, Blockchain | 100% transaction integrity, 99.99% uptime |
-| **Computer Vision Solutions** | Python, OpenCV, Docker | 95% detection accuracy, 5+ enterprise deployments |
-| **Financial Management** | TypeScript, React, MongoDB | $5M+ transaction volume, 40% efficiency improvement |
-| **Administrative Dashboards** | JavaScript, Material UI | 30% productivity increase, 50% faster decisions |
+<br>
 
----
-
-## 🌐 Connect With Me
-
+## 💻 Development Metrics
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaudRazzaq&theme=github_dark" width="100%" />
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daud-razzaq)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://daud-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daud.razzaq@example.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daud.razzaq)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaudRazzaq)
-
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaudRazzaq&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaudRazzaq&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaudRazzaq&theme=github_dark" width="32%" />
+  </div>
 </div>
 
----
+<br>
 
-## 📝 Latest Articles & Insights
-
-- 📖 [Revolutionizing Hiring: AI-Powered Interview Facilitation](https://medium.com/@daud.razzaq)
-- 📱 [Building Scalable Cross-Platform Apps with React Native](https://medium.com/@daud.razzaq)
-- 🔒 [Security Best Practices in Modern Application Development](https://medium.com/@daud.razzaq)
-- 🤖 [The Future of AI in Recruitment and Human Resources](https://medium.com/@daud.razzaq)
-
----
-
-## 📊 Profile Metrics
-
+## 🌐 Professional Network
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=DaudRazzaq&color=0366d6&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/DaudRazzaq?color=0366d6&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/DaudRazzaq?color=0366d6&style=flat-square)
-
+  <a href="https://linkedin.com/in/daud-razzaq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://daud-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:daud.razzaq@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://medium.com/@daud.razzaq" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://github.com/DaudRazzaq" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
----
+<br>
+
+## 📝 Latest Publications
+<!-- BLOG-POST-LIST:START -->
+- [Implementing Efficient AI Systems for Enterprise Applications](https://medium.com)
+- [Best Practices for Secure Application Development in 2025](https://medium.com)
+- [Optimizing React Applications for Enterprise-Scale Performance](https://medium.com)
+- [Machine Learning Approaches for Automated Business Intelligence](https://medium.com)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=100&section=footer&animation=fadeIn" width="100%">
   
-  **Last Updated:** *2025-07-05 23:13:38*
+  <br>
   
-  ⭐ *Don't forget to star my repositories if you find them useful!* ⭐
+  <img src="https://komarev.com/ghpvc/?username=DaudRazzaq&style=flat-square&color=0366d6" alt="Profile Views" />
+  
+  <p><i>Last updated: 2025-07-05</i></p>
 </div>
 ```
