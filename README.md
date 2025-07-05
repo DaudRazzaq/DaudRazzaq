@@ -1,13 +1,59 @@
 <div align="center">
-  <!-- Profile Banner with Enhanced Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=200&section=header&text=Daud%20Razzaq&fontSize=70&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=62" width="100%">
+  <!-- SVG Header with Animation -->
+  <svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .header-text {
+        font-family: 'Inter', sans-serif;
+        font-size: 48px;
+        font-weight: 700;
+        fill: #fff;
+      }
+      .subtitle {
+        font-family: 'Inter', sans-serif;
+        font-size: 18px;
+        fill: #fff;
+        opacity: 0.9;
+      }
+      .background {
+        fill: url(#gradient);
+        rx: 10;
+        ry: 10;
+      }
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+      .animate-float {
+        animation: float 3s ease-in-out infinite;
+      }
+      @keyframes gradientShift {
+        0% { stop-color: #0366d6; }
+        50% { stop-color: #2ea44f; }
+        100% { stop-color: #0366d6; }
+      }
+      .gradient-start, .gradient-end {
+        animation: gradientShift 8s ease-in-out infinite;
+      }
+    </style>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(10)">
+        <stop offset="0%" class="gradient-start" stop-color="#0366d6" />
+        <stop offset="50%" stop-color="#2ea44f" />
+        <stop offset="100%" class="gradient-end" stop-color="#0366d6" />
+      </linearGradient>
+    </defs>
+    <rect class="background" width="800" height="120" />
+    <g class="animate-float">
+      <text x="400" y="65" class="header-text" text-anchor="middle">Daud Razzaqi</text>
+      <text x="400" y="95" class="subtitle" text-anchor="middle">Full Stack Developer | AI Engineer</text>
+    </g>
+  </svg>
   
-  <!-- Animated Text with SVGator-style animation -->
-  <div style="margin-top: -40px; margin-bottom: 20px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-    </a>
-  </div>
+  <!-- Animated Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -53,17 +99,17 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 
 ## 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaudRazzaq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="192px" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaq&theme=github_dark&hide_border=true" height="192px" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DaudRazzaqi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="192px" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaqi&theme=github_dark&hide_border=true" height="192px" width="49.5%"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaqi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%">
 </div>
 
 <br>
 
 ## 📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaudRazzaq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8" width="98%" alt="contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaudRazzaqi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8" width="98%" alt="contribution graph">
 </div>
 
 <br>
@@ -81,12 +127,12 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 
 ## 💻 Development Metrics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaudRazzaq&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaudRazzaqi&theme=github_dark" width="100%" />
   
   <div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaudRazzaq&theme=github_dark" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaudRazzaq&theme=github_dark" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaudRazzaq&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaudRazzaqi&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaudRazzaqi&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaudRazzaqi&theme=github_dark" width="32%" />
   </div>
 </div>
 
@@ -94,19 +140,19 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 
 ## 🌐 Professional Network
 <div align="center">
-  <a href="https://linkedin.com/in/daud-razzaq" target="_blank">
+  <a href="https://linkedin.com/in/daud-razzaqi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://daud-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:daud.razzaq@example.com" target="_blank">
+  <a href="mailto:daud.razzaqi@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://medium.com/@daud.razzaq" target="_blank">
+  <a href="https://medium.com/@daud.razzaqi" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://github.com/DaudRazzaq" target="_blank">
+  <a href="https://github.com/DaudRazzaqi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -124,11 +170,7 @@ I'm a seasoned **Full-Stack Developer** and **AI Engineer** focused on deliverin
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=100&section=footer&animation=fadeIn" width="100%">
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=DaudRazzaq&style=flat-square&color=0366d6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DaudRazzaqi&style=flat-square&color=0366d6" alt="Profile Views" />
   
   <p><i>Last updated: 2025-07-05</i></p>
 </div>
