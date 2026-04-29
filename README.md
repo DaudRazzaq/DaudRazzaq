@@ -26,7 +26,7 @@
 // ✦ daud.config.js — who am I?
 
 const daud = {
-    pronouns: "He" | "Him",
+    pronouns: "He",
     role: "Full-Stack Developer & AI Engineer",
     portfolio: "https://www.daud.codes",
     
