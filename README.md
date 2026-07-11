@@ -1,3 +1,129 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muhammad Daud Razzaq Khan — Mobile and Frontend Engineer">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="55%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#0d1630"/>
+    </linearGradient>
+
+    <!-- Animated shimmer gradient for the name -->
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0" spreadMethod="reflect">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#00d4ff"/>
+      <stop offset="55%" stop-color="#7b61ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1000 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft radial light behind content -->
+    <radialGradient id="halo" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.10"/>
+      <stop offset="60%" stop-color="#7b61ff" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Base -->
+  <rect width="1000" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="16" fill="url(#halo)"/>
+
+  <!-- Subtle grid lines -->
+  <g stroke="#1c2a4a" stroke-width="1" opacity="0.35">
+    <line x1="0" y1="75"  x2="1000" y2="75"/>
+    <line x1="0" y1="150" x2="1000" y2="150"/>
+    <line x1="0" y1="225" x2="1000" y2="225"/>
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    <line x1="400" y1="0" x2="400" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="800" y1="0" x2="800" y2="300"/>
+  </g>
+
+  <!-- Floating particles -->
+  <g>
+    <circle cx="120" cy="70" r="3" fill="#00d4ff" opacity="0.6">
+      <animate attributeName="cy" values="70;45;70" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.15;0.6" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="90" r="4" fill="#7b61ff" opacity="0.5">
+      <animate attributeName="cy" values="90;120;90" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="230" r="2.5" fill="#00d4ff" opacity="0.5">
+      <animate attributeName="cy" values="230;205;230" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="220" r="2.5" fill="#00d4ff" opacity="0.45">
+      <animate attributeName="cy" values="220;248;220" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="160" r="2" fill="#7b61ff" opacity="0.4">
+      <animate attributeName="cy" values="160;135;160" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="945" cy="160" r="2" fill="#7b61ff" opacity="0.4">
+      <animate attributeName="cy" values="160;188;160" dur="11s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Corner brackets -->
+  <g stroke="#00d4ff" stroke-width="2.5" fill="none" opacity="0.8">
+    <path d="M 28 52 L 28 30 L 50 30"/>
+    <path d="M 950 30 L 972 30 L 972 52"/>
+    <path d="M 972 248 L 972 270 L 950 270"/>
+    <path d="M 50 270 L 28 270 L 28 248"/>
+  </g>
+
+  <!-- Name with shimmer -->
+  <text x="500" y="118" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="44" font-weight="800" letter-spacing="3"
+        fill="url(#shine)" filter="url(#glow)">MUHAMMAD DAUD RAZZAQ KHAN</text>
+
+  <!-- Subtitle -->
+  <text x="500" y="156" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="19" font-weight="600" letter-spacing="4"
+        fill="#a0aec0">MOBILE &amp; FRONTEND ENGINEER</text>
+
+  <!-- Pulsing accent line -->
+  <rect x="400" y="172" width="200" height="3" rx="1.5" fill="#00d4ff">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="400;390;400" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="200;220;200" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Rotating specialties with blinking cursor -->
+  <g font-family="Consolas, Menlo, monospace" font-size="22" font-weight="600" text-anchor="middle">
+    <text x="500" y="216" fill="#00d4ff" opacity="0">
+      &lt;React Native /&gt;
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="216" fill="#7b61ff" opacity="0">
+      &lt;Next.js /&gt;
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="216" fill="#00d4ff" opacity="0">
+      &lt;AI Integration /&gt;
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="618" y="200" width="3" height="20" fill="#00d4ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Footer stats line -->
+  <text x="500" y="256" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="500" letter-spacing="1"
+        fill="#5a6a8a">20+ PRODUCTS SHIPPED&#160;&#160;&#8226;&#160;&#160;5 COUNTRIES&#160;&#160;&#8226;&#160;&#160;OPEN TO SAUDI ARABIA &#127480;&#127462;</text>
+</svg>
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER (self-hosted SVG — loads 100% reliably, no third-party API) ═══════════════ -->
@@ -231,3 +357,39 @@ Fluent in **English** &amp; **Urdu** · Arabic-market product experience · Avai
 <img src="./footer.svg" width="100%" alt="footer"/>
 
 </div>
+
+<svg width="1000" height="90" viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="50%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="90" rx="14" fill="url(#fbg)"/>
+
+  <rect x="300" y="18" width="400" height="2" rx="1" fill="#00d4ff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="400;440;400" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="300;280;300" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="500" y="52" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="16" font-weight="600" letter-spacing="1"
+        fill="#a0aec0">Thanks for stopping by &#8212; let&#8217;s build something world-class</text>
+
+  <g>
+    <circle cx="150" cy="45" r="2.5" fill="#00d4ff" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="45" r="2.5" fill="#7b61ff" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="500" y="76" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="13" letter-spacing="0.5"
+        fill="#5a6a8a">daudrazzaq.me &#160;&#8226;&#160; Open to Riyadh &amp; Jeddah &#127480;&#127462;</text>
+</svg>
