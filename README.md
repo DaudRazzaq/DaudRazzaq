@@ -1,18 +1,13 @@
 <div align="center">
 
-# 👋 Muhammad Daud Razzaq Khan
+<!-- ⚡ Custom animated header — hosted in this repo, loads 100% reliably -->
+<img src="./header.svg" width="100%" alt="Muhammad Daud Razzaq Khan &#8212; Mobile &amp; Frontend Engineer &#183; React Native &#183; Next.js &#183; AI Integration"/>
 
-### Mobile & Frontend Engineer · React Native · Next.js · TypeScript · AI Integration
+<br/><br/>
 
-**Building AI-powered, high-performance apps for iOS, Android & Web**
-
-20+ products shipped · 5 countries served · Open to Saudi Arabia 🇸🇦
-
-<br/>
-
-<a href="https://daudrazzaq.me"><img src="https://img.shields.io/badge/Portfolio-daudrazzaq.me-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f1e"/></a>
-<a href="https://linkedin.com/in/daud-razzaq-3a3892233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e"/></a>
-<a href="mailto:daudrazzaq7890@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e"/></a>
+<a href="https://daudrazzaq.me"><img src="https://img.shields.io/badge/Portfolio-daudrazzaq.me-00d4ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0a0f1e"/></a>
+<a href="https://linkedin.com/in/daud-razzaq-3a3892233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0a0f1e"/></a>
+<a href="mailto:daudrazzaq7890@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0a0f1e"/></a>
 
 </div>
 
@@ -57,23 +52,23 @@ const daud = {
 
 ### 📱 Mobile
 
-<img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/React_Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&amp;logo=redux&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React_Query-ff4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white"/>
 
 ### 🌐 Web / Frontend
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055ff?style=for-the-badge&amp;logo=framer&amp;logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
 
 ### 🤖 AI & Emerging Tech
 
-<img src="https://img.shields.io/badge/Gemini_AI-8e75b2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-0097a7?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Web3_/_Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8e75b2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-0097a7?style=for-the-badge&amp;logo=google&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Web3_/_Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white"/>
 
 ### ⚙️ Backend & Cloud
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&amp;logo=python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&amp;logo=django&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635bff?style=for-the-badge&amp;logo=stripe&amp;logoColor=white"/>
 
 ### 🚀 Infrastructure & DevOps
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare_R2-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare_R2-f38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&amp;logo=resend&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-2088ff?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white"/>
 
 </div>
 
@@ -92,8 +87,8 @@ Enterprise-grade wholesale marketplace: RBAC for suppliers/vendors/warehouses, m
 
 `React Native` `TypeScript` `Django` `Redux/Zustand` `QuickBooks API`
 
-[![App Store](https://img.shields.io/badge/App_Store-LIVE-0d96f6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/my/app/wholesale-ez/id1592556878)
-[![Google Play](https://img.shields.io/badge/Google_Play-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=wholesaleez.wholesaleezapp.supplierapp)
+[![App Store](https://img.shields.io/badge/App_Store-LIVE-0d96f6?style=flat-square&amp;logo=appstore&amp;logoColor=white)](https://apps.apple.com/my/app/wholesale-ez/id1592556878)
+[![Google Play](https://img.shields.io/badge/Google_Play-LIVE-414141?style=flat-square&amp;logo=googleplay&amp;logoColor=white)](https://play.google.com/store/apps/details?id=wholesaleez.wholesaleezapp.supplierapp)
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +100,7 @@ Fully bilingual EN/AR classifieds with right-to-left (RTL) layouts — moderated
 
 `React Native` `TypeScript` `Firebase` `Stripe` `Cloudflare R2`
 
-[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/zolmarket)
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&amp;logo=vercel&amp;logoColor=white)](https://daudrazzaq.me/work/zolmarket)
 
 </td>
 </tr>
@@ -119,7 +114,7 @@ Subscription-based AI guidance app: LLM-generated personalized reports, conversa
 
 `React Native` `TypeScript` `TanStack Query` `Reanimated` `LLM`
 
-[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/ethereya)
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&amp;logo=vercel&amp;logoColor=white)](https://daudrazzaq.me/work/ethereya)
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +126,7 @@ AI mock-interview system: Gemini-tailored questions from resume parsing, Whisper
 
 `React Native` `Python` `Gemini` `Whisper` `MediaPipe` `PyTorch`
 
-[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/ai-interview-facilitator)
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&amp;logo=vercel&amp;logoColor=white)](https://daudrazzaq.me/work/ai-interview-facilitator)
 
 </td>
 </tr>
@@ -145,7 +140,7 @@ Built and shipped the production Next.js platform for a London interior-architec
 
 `Next.js` `React` `Framer Motion` `Vercel` `Resend`
 
-[![Live Site](https://img.shields.io/badge/Live-aureonstudio.co.uk-00c853?style=flat-square&logo=googlechrome&logoColor=white)](https://aureonstudio.co.uk)
+[![Live Site](https://img.shields.io/badge/Live-aureonstudio.co.uk-00c853?style=flat-square&amp;logo=googlechrome&amp;logoColor=white)](https://aureonstudio.co.uk)
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +152,7 @@ Snap a photo → instant meal identification and nutrition breakdown. AI recipe 
 
 `React Native` `TypeScript` `Python` `FastAPI` `PyTorch`
 
-[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/meal-mate)
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&amp;logo=vercel&amp;logoColor=white)](https://daudrazzaq.me/work/meal-mate)
 
 </td>
 </tr>
@@ -167,7 +162,7 @@ Snap a photo → instant meal identification and nutrition breakdown. AI recipe 
 
 **➕ More projects:** TrendUp (Web3 social) · Cleaners Choice (on-demand services) · Luci (booking marketplace, EN/TH) · Cafena (Next.js e-commerce)
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-daudrazzaq.me/work-00d4ff?style=for-the-badge&logo=safari&logoColor=white&labelColor=0a0f1e)](https://daudrazzaq.me/work)
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-daudrazzaq.me/work-00d4ff?style=for-the-badge&amp;logo=safari&amp;logoColor=white&amp;labelColor=0a0f1e)](https://daudrazzaq.me/work)
 
 </div>
 
@@ -190,9 +185,9 @@ Snap a photo → instant meal identification and nutrition breakdown. AI recipe 
 
 [![Meta](https://img.shields.io/badge/Meta-React_Native_Specialization_(8_courses)-0668e1?style=for-the-badge&logo=meta&logoColor=white&labelColor=0a0f1e)](https://coursera.org/verify/specialization/DS8NWQGQNBAB)
 
-[![IBM](https://img.shields.io/badge/IBM-Front--End_Apps_with_React-054ada?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a0f1e)](https://coursera.org/verify/WTJPNLAKXVDM)
+[![IBM](https://img.shields.io/badge/IBM-Front--End_Apps_with_React-054ada?style=for-the-badge&amp;logo=ibm&amp;logoColor=white&amp;labelColor=0a0f1e)](https://coursera.org/verify/WTJPNLAKXVDM)
 
-[![Meta](https://img.shields.io/badge/Meta-Intro_to_Front--End_Development-0668e1?style=for-the-badge&logo=meta&logoColor=white&labelColor=0a0f1e)](https://coursera.org/verify/MLHJ3WLFKJGP)
+[![Meta](https://img.shields.io/badge/Meta-Intro_to_Front--End_Development-0668e1?style=for-the-badge&amp;logo=meta&amp;logoColor=white&amp;labelColor=0a0f1e)](https://coursera.org/verify/MLHJ3WLFKJGP)
 
 🎓 **B.S. Software Engineering** — COMSATS University Islamabad · 2021–2025
 
@@ -212,8 +207,8 @@ Fluent in **English** & **Urdu** · Arabic-market product experience · Availabl
 
 <br/>
 
-<a href="https://daudrazzaq.me/contact"><img src="https://img.shields.io/badge/💬_Start_a_Conversation-daudrazzaq.me/contact-00d4ff?style=for-the-badge&labelColor=0a0f1e"/></a>
-<a href="mailto:daudrazzaq7890@gmail.com"><img src="https://img.shields.io/badge/📧_Email-daudrazzaq7890@gmail.com-ea4335?style=for-the-badge&labelColor=0a0f1e"/></a>
+<a href="https://daudrazzaq.me/contact"><img src="https://img.shields.io/badge/💬_Start_a_Conversation-daudrazzaq.me/contact-00d4ff?style=for-the-badge&amp;labelColor=0a0f1e"/></a>
+<a href="mailto:daudrazzaq7890@gmail.com"><img src="https://img.shields.io/badge/📧_Email-daudrazzaq7890@gmail.com-ea4335?style=for-the-badge&amp;labelColor=0a0f1e"/></a>
 
 <br/><br/>
 
