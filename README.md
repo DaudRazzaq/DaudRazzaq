@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- ═══════════════ ANIMATED WAVE HEADER ═══════════════ -->
+<!-- ═══════════════ ANIMATED HEADER (self-hosted SVG — loads 100% reliably, no third-party API) ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050810,50:0a0f1e,100:00d4ff&amp;height=200&amp;section=header&amp;text=Muhammad%20Daud%20Razzaq%20Khan&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=58&amp;desc=Mobile%20%26%20Frontend%20Engineer%20%7C%20React%20Native%20%7C%20Next.js%20%7C%20AI%20Integration&amp;descSize=16&amp;descAlignY=80&amp;descColor=00d4ff" width="100%" alt="header"/>
-
-<!-- ═══════════════ ANIMATED TYPING LINE ═══════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3CReact+Native+%2F%3E+%E2%80%A2+%3CNext.js+%2F%3E+%E2%80%A2+%3CTypeScript+%2F%3E;Building+AI-powered+mobile+%26+web+apps;20%2B+products+shipped+across+5+countries;Open+to+opportunities+in+Saudi+Arabia" alt="typing animation"/>
+<img src="./header.svg" width="100%" alt="Muhammad Daud Razzaq Khan — Mobile &amp; Frontend Engineer · React Native · Next.js · AI Integration"/>
 
 <br/><br/>
 
@@ -230,8 +226,8 @@ Fluent in **English** &amp; **Urdu** · Arabic-market product experience · Avai
 
 ⭐ *If my work interests you, check out* **[daudrazzaq.me](https://daudrazzaq.me)** *for live demos*
 
-<!-- ═══════════════ ANIMATED WAVE FOOTER ═══════════════ -->
+<!-- ═══════════════ ANIMATED FOOTER (self-hosted SVG) ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d4ff,50:0a0f1e,100:050810&amp;height=120&amp;section=footer" width="100%" alt="footer"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
 
 </div>
