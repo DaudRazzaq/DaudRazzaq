@@ -1,0 +1,29 @@
+<svg width="1000" height="90" viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="50%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="90" rx="14" fill="url(#fbg)"/>
+
+  <rect x="300" y="18" width="400" height="2" rx="1" fill="#00d4ff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="400;440;400" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="300;280;300" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="500" y="52" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="1" fill="#a0aec0">Thanks for stopping by &#8212; let&#8217;s build something world-class</text>
+
+  <g>
+    <circle cx="150" cy="45" r="2.5" fill="#00d4ff" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="45" r="2.5" fill="#7b61ff" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="500" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="0.5" fill="#5a6a8a">daudrazzaq.me &#160;&#8226;&#160; Open to Riyadh &amp; Jeddah &#127480;&#127462;</text>
+</svg>
