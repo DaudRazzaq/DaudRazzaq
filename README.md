@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const daud = {
