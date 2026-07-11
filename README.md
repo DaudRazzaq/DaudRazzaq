@@ -20,16 +20,14 @@
 const daud = {
   role: "Mobile & Frontend Engineer",
   experience: "3.5+ years · 3 product companies + freelance for global clients",
-  location: "Lahore, Pakistan → relocating to Riyadh, Saudi Arabia 🇸🇦",
+  location: "Riyadh, Saudi Arabia 🇸🇦",
 
   code: ["TypeScript", "JavaScript", "Python", "SQL"],
   mobile: ["React Native", "Expo", "Native Modules", "Store Releases"],
   web: ["Next.js", "React", "Tailwind", "Framer Motion", "SEO-first builds"],
   ai: ["LLM Chatbots (Gemini)", "Computer Vision (OpenCV, MediaPipe)", "Whisper", "PyTorch"],
 
-  shipped: "20+ products for clients in USA, UK, UAE, Canada & Australia",
-  liveOnStores: "WholesaleEZ — App Store & Google Play",
-  arabicMarkets: "Bilingual EN/AR apps with full RTL support (MENA)",
+  shipped: "3+ products for clients in USA, UK, UAE, Canada & Australia",
 
   certifications: ["Meta React Native Specialization", "IBM Front-End with React"],
   education: "B.S. Software Engineering — COMSATS University (2021–2025)",
