@@ -23,8 +23,8 @@
 ```typescript
 const daud = {
   role: "Mobile & Frontend Engineer",
-  experience: "3.5+ years · 3 product companies + freelance for global clients",
-  location: "Lahore, Pakistan → relocating to Riyadh, Saudi Arabia 🇸🇦",
+  experience: "3.5+ years · 3+ product companies + freelance for global clients",
+  location: "Riyadh, Saudi Arabia 🇸🇦",
 
   code: ["TypeScript", "JavaScript", "Python", "SQL"],
   mobile: ["React Native", "Expo", "Native Modules", "Store Releases"],
@@ -32,8 +32,6 @@ const daud = {
   ai: ["LLM Chatbots (Gemini)", "Computer Vision (OpenCV, MediaPipe)", "Whisper", "PyTorch"],
 
   shipped: "20+ products for clients in USA, UK, UAE, Canada & Australia",
-  liveOnStores: "WholesaleEZ — App Store & Google Play",
-  arabicMarkets: "Bilingual EN/AR apps with full RTL support (MENA)",
 
   certifications: ["Meta React Native Specialization", "IBM Front-End with React"],
   education: "B.S. Software Engineering — COMSATS University (2021–2025)",
@@ -41,11 +39,10 @@ const daud = {
 ```
 
 - 🔭 **Freelance Full-Stack Web &amp; Mobile Developer** — delivering end-to-end for clients across the US, UK, UAE, Canada &amp; Australia
-- 📱 **WholesaleEZ** live in production on the **[App Store](https://apps.apple.com/my/app/wholesale-ez/id1592556878)** and **[Google Play](https://play.google.com/store/apps/details?id=wholesaleez.wholesaleezapp.supplierapp)** — real users, not demos
 - 🤖 Deep in **AI-integrated products**: LLM chatbots, emotion detection, speech transcription pipelines
 - 🌙 Obsessed with **premium UI/UX** — glassmorphism, 60fps Reanimated transitions, dark-mode design systems
 - ⚡ Performance focused: **100/100 Lighthouse SEO**, latency reduction, Core Web Vitals
-- 🇸🇦 **Open to on-site roles in Riyadh &amp; Jeddah** — available on short notice
+- 🇸🇦 **Open to on-site roles in Riyadh** — available on short notice
 
 <br/>
 
@@ -181,9 +178,9 @@ Snap a photo → instant meal identification and nutrition breakdown. AI recipe 
 | | Role | Company | Period |
 |---|---|---|---|
 | 🟢 | **Freelance Full-Stack Developer** | Independent — Web &amp; Mobile · Global Clients (US, UK, UAE, CA, AU) | 2021 – Present |
-| 🔵 | **React Native Developer** | Webexhaust — Remote | Oct 2025 – Jun 2026 |
-| 🔵 | **React Native Developer** | 7 Kings Code — Lahore | Mar 2025 – Sep 2025 |
-| 🔵 | **React Native Developer** | Wise360 Solutions — Abbottabad *(cut app load times ~30%)* | Feb 2023 – Mar 2025 |
+| 🔵 | **Mobile Application Developer** | Webexhaust — Remote | Oct 2025 – Jun 2026 |
+| 🔵 | **Mobile Application Developer** | 7 Kings Code — Lahore | Mar 2025 – Sep 2025 |
+| 🔵 | **Mobile Application Developer** | Wise360 Solutions — Abbottabad *(cut app load times ~30%)* | Feb 2023 – Mar 2025 |
 
 <br/>
 
@@ -199,7 +196,6 @@ Snap a photo → instant meal identification and nutrition breakdown. AI recipe 
 
 <a href="https://coursera.org/verify/MLHJ3WLFKJGP"><img src="https://img.shields.io/badge/Meta-Intro_to_Front--End_Development-0668e1?style=for-the-badge&amp;logo=meta&amp;logoColor=white&amp;labelColor=0a0f1e" alt="Meta Intro to Front-End"/></a>
 
-🎓 **B.S. Software Engineering** — COMSATS University Islamabad · 2021–2025
 
 </div>
 
@@ -213,7 +209,7 @@ Snap a photo → instant meal identification and nutrition breakdown. AI recipe 
 
 ## 🤝 Let's Build Something World-Class
 
-**🇸🇦 Actively seeking Senior React Native / Next.js roles in Riyadh &amp; Jeddah**
+**🇸🇦 Actively seeking Senior Mobile Development  / Next.js roles in Riyadh**
 
 Fluent in **English** &amp; **Urdu** · Arabic-market product experience · Available on short notice
 
