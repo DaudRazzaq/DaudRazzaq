@@ -14,7 +14,10 @@
     <animate attributeName="x" values="300;280;300" dur="3s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="500" y="52" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="1" fill="#a0aec0">Thanks for stopping by &#8212; let&#8217;s build something world-class</text>
+  <text x="500" y="52" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="16" font-weight="600" letter-spacing="1"
+        fill="#a0aec0">Thanks for stopping by &#8212; let&#8217;s build something world-class</text>
 
   <g>
     <circle cx="150" cy="45" r="2.5" fill="#00d4ff" opacity="0.5">
@@ -25,5 +28,8 @@
     </circle>
   </g>
 
-  <text x="500" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="0.5" fill="#5a6a8a">daudrazzaq.me &#160;&#8226;&#160; Open to Riyadh &amp; Jeddah &#127480;&#127462;</text>
+  <text x="500" y="76" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="13" letter-spacing="0.5"
+        fill="#5a6a8a">daudrazzaq.me &#160;&#8226;&#160; Open to Riyadh &amp; Jeddah &#127480;&#127462;</text>
 </svg>
