@@ -186,7 +186,7 @@ Snap a photo → instant meal identification and nutrition breakdown. AI recipe 
 
 <!-- ═══════════════ CERTIFICATIONS ═══════════════ -->
 
-## 📜 Certifications &amp; Education
+## 📜 Certifications
 
 <div align="center">
 
