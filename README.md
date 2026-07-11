@@ -1,361 +1,240 @@
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        DAUD RAZZAQ — 2026                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-  <!-- Minimal Modern Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=DAUD%20RAZZAQ&fontSize=60&fontColor=58a6ff&animation=twinkling&stroke=58a6ff&strokeWidth=1&descSize=16&desc=AI%20Engineer%20%20%C2%B7%20%20Full%20Stack%20Developer%20%20%C2%B7%20%20Open%20Source&descAlignY=72&fontAlignY=45" width="100%" />
+<!-- ══════════════════════ HEADER ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:0a0f1e,100:00d4ff&height=180&section=header&text=Muhammad%20Daud%20Razzaq%20Khan&fontSize=36&fontColor=ffffff&fontAlignY=62&desc=Mobile%20%26%20Frontend%20Engineer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI%20Integration&descSize=15&descAlignY=82&descColor=00d4ff" width="100%"/>
+
+<!-- ══════════════════════ TYPING BANNER ══════════════════════ -->
+
+<a href="https://daudrazzaq.me">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+mobile+%26+web+apps;20%2B+products+shipped+across+5+countries;React+Native+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Open+to+opportunities+in+Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ══════════════════════ CONTACT BADGES ══════════════════════ -->
+
+<a href="https://daudrazzaq.me"><img src="https://img.shields.io/badge/Portfolio-daudrazzaq.me-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f1e"/></a>
+<a href="https://linkedin.com/in/daud-razzaq-3a3892233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e"/></a>
+<a href="mailto:daudrazzaq7890@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=DaudRazzaq&style=for-the-badge&color=00d4ff&labelColor=0a0f1e&label=PROFILE+VIEWS"/>
 
 </div>
 
-<!-- Quick Identity Strip -->
-<div align="center">
-  <a href="https://www.daud.codes"><img src="https://img.shields.io/badge/%E2%97%86%20daud.codes-Visit%20Portfolio-58a6ff?style=flat-square&labelColor=0d1117" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-🌍%20Worldwide%20(Remote)-161b22?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-238636?style=flat-square&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=DaudRazzaq&style=flat-square&color=58a6ff&label=Visitors" />
-</div>
+<br/>
 
-<br>
+<!-- ══════════════════════ ABOUT ══════════════════════ -->
 
-<!-- ═══════════ TERMINAL-STYLE ABOUT ═══════════ -->
+## 🚀 About Me
 
-```js
-// ✦ daud.config.js — who am I?
-
+```typescript
 const daud = {
-    pronouns: "He",
-    role: "Full-Stack Developer & AI Engineer",
-    portfolio: "https://www.daud.codes",
-    
-    code: ["Python", "TypeScript", "JavaScript", "Java"],
-    
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Shadcn/UI", "Framer Motion"],
-            mobile: ["React Native"],
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            java: ["Spring Boot"],
-            api: ["REST", "GraphQL", "tRPC"],
-        },
-        ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "LangChain", "HuggingFace"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Prisma"],
-        cloud: ["AWS", "GCP", "Docker", "Kubernetes", "Vercel"],
-    },
-    
-    currentFocus: "Building AI agents & LLM-powered applications",
-    funFact: "I debug in my dreams 🧠",
+  role: "Mobile & Frontend Engineer",
+  experience: "3.5+ years · 3 product companies · Founder @ Aureon Studio",
+  location: "Lahore, Pakistan → relocating to Riyadh, Saudi Arabia 🇸🇦",
+
+  code: ["TypeScript", "JavaScript", "Python", "SQL"],
+  mobile: ["React Native", "Expo", "Native Modules", "Store Releases"],
+  web: ["Next.js", "React", "Tailwind", "Framer Motion", "SEO-first builds"],
+  ai: ["LLM Chatbots (Gemini)", "Computer Vision (OpenCV, MediaPipe)", "Whisper", "PyTorch"],
+
+  shipped: "20+ products for clients in USA, UK, UAE, Canada & Australia",
+  liveOnStores: "WholesaleEZ — App Store & Google Play",
+  arabicMarkets: "Bilingual EN/AR apps with full RTL support (MENA)",
+
+  certifications: ["Meta React Native Specialization", "IBM Front-End with React"],
+  education: "B.S. Software Engineering — COMSATS University (2021–2025)",
 };
 ```
 
-<br>
+- 🔭 Currently **Founder & Lead Developer @ [Aureon Studio](https://aureonstudio.co.uk)** — end-to-end web & mobile delivery for international clients
+- 📱 **[WholesaleEZ](https://apps.apple.com/my/app/wholesale-ez/id1592556878)** live in production on the **[App Store](https://apps.apple.com/my/app/wholesale-ez/id1592556878)** and **[Google Play](https://play.google.com/store/apps/details?id=wholesaleez.wholesaleezapp.supplierapp)** — real users, not demos
+- 🤖 Deep in **AI-integrated products**: LLM chatbots, emotion detection, speech transcription pipelines
+- 🌙 Obsessed with **premium UI/UX** — glassmorphism, 60fps Reanimated transitions, dark-mode design systems
+- ⚡ Performance freak: **100/100 Lighthouse SEO**, latency reduction, Core Web Vitals
+- 🇸🇦 **Open to on-site roles in Riyadh & Jeddah** — available on short notice
 
-<!-- ═══════════ TECH STACK — ICON GRID ═══════════ -->
+<br/>
 
-<div align="center">
-  
-  ## ⚡ Tech Arsenal
+<!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-        <br><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br><sub><b>TypeScript</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br><sub><b>Java</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br><sub><b>React</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br><sub><b>Next.js</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br><sub><b>Tailwind</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-        <br><sub><b>Redux</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br><sub><b>Express</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-        <br><sub><b>Django</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-        <br><sub><b>Spring</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-        <br><sub><b>GraphQL</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-        <br><sub><b>TensorFlow</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-        <br><sub><b>PyTorch</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-        <br><sub><b>OpenCV</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br><sub><b>PostgreSQL</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br><sub><b>MongoDB</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br><sub><b>Redis</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-        <br><sub><b>Prisma</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br><sub><b>AWS</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-        <br><sub><b>GCP</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br><sub><b>Docker</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="K8s" />
-        <br><sub><b>Kubernetes</b></sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br>
-
-<!-- ═══════════ GITHUB STATS — TRANSPARENT GLASS ═══════════ -->
-
-<div align="center">
-  
-  ## 📊 GitHub Analytics
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaudRazzaq&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaq&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="170" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaq&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=10" width="380" />
-</div>
-
-<br>
-
-<!-- ═══════════ CONTRIBUTION GRAPH ═══════════ -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-  ## 📈 Contribution Graph
+### 📱 Mobile
+<img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/React_Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaudRazzaq&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=16&custom_title=Contribution%20Timeline" width="98%"/>
-  
-</div>
+### 🌐 Web / Frontend
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br>
+### 🤖 AI & Emerging Tech
+<img src="https://img.shields.io/badge/Gemini_AI-8e75b2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-0097a7?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Web3_/_Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 
-<!-- ═══════════ SNAKE ANIMATION ═══════════ -->
+### ⚙️ Backend & Cloud
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white"/>
 
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaudRazzaq/DaudRazzaq/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaudRazzaq/DaudRazzaq/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaudRazzaq/DaudRazzaq/output/github-snake-dark.svg" width="100%" />
-  </picture>
+### 🚀 Infrastructure & DevOps
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare_R2-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </div>
 
-<br>
+<br/>
 
-<!-- ═══════════ FEATURED PROJECTS ═══════════ -->
+<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
 
-<div align="center">
-  
-  ## 🚀 Featured Projects & Impact
+## 📌 Featured Projects
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🏪 WholesaleEZ
+**B2B Commerce & Inventory Platform — LIVE IN PRODUCTION**
 
-> Each project represents a real-world challenge turned into a scalable solution.
+Enterprise-grade wholesale marketplace: RBAC for suppliers/vendors/warehouses, multi-warehouse real-time inventory, QuickBooks financial sync, secure payments & automated PDF invoicing.
 
-</div>
+`React Native` `TypeScript` `Django` `Redux/Zustand` `QuickBooks API`
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Interview Facilitator</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      </p>
-      <p align="center"><sub>AI-driven interview platform with natural language assessment</sub></p>
-      <p align="center">
-        <code>98% accuracy</code> · <code>35% faster hiring</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🗳️ Secure Voting Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white" />
-      </p>
-      <p align="center"><sub>Tamper-proof voting with blockchain-backed integrity</sub></p>
-      <p align="center">
-        <code>100% integrity</code> · <code>99.99% uptime</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">👁️ Computer Vision Suite</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p align="center"><sub>Enterprise-grade detection & recognition pipeline</sub></p>
-      <p align="center">
-        <code>95% detection</code> · <code>5+ enterprises</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💰 Financial Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p align="center"><sub>Full-stack financial tracking & reporting platform</sub></p>
-      <p align="center">
-        <code>$5M+ volume</code> · <code>40% efficiency ↑</code>
-      </p>
-    </td>
-  </tr>
+[![App Store](https://img.shields.io/badge/App_Store-LIVE-0d96f6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/my/app/wholesale-ez/id1592556878)
+[![Google Play](https://img.shields.io/badge/Google_Play-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=wholesaleez.wholesaleezapp.supplierapp)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 ZolMarket
+**Bilingual English/Arabic Marketplace (MENA)**
+
+Fully bilingual EN/AR classifieds with right-to-left (RTL) layouts — moderated listings, in-chat price negotiation, seller reputation, and Stripe-powered featured ads.
+
+`React Native` `TypeScript` `Firebase` `Stripe` `Cloudflare R2`
+
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/zolmarket)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 Ethereya
+**AI Wellness App with Premium Subscriptions**
+
+Subscription-based AI guidance app: LLM-generated personalized reports, conversational AI chatbot with file uploads, glassmorphic UI with fluid Reanimated transitions.
+
+`React Native` `TypeScript` `TanStack Query` `Reanimated` `LLM`
+
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/ethereya)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 AI Interview Facilitator
+**Computer Vision + LLM Interview Platform**
+
+AI mock-interview system: Gemini-tailored questions from resume parsing, Whisper speech transcription, MediaPipe emotion/non-verbal analysis → objective evaluation reports. ~95% expression-recognition accuracy.
+
+`React Native` `Python` `Gemini` `Whisper` `MediaPipe` `PyTorch`
+
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/ai-interview-facilitator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Aureon Studio
+**SEO-First Production Website — LIVE**
+
+Next.js platform for a London interior-architecture firm: structured data, fluid Framer Motion animations, enquiry + WhatsApp conversion flow. **100/100 Lighthouse SEO.**
+
+`Next.js` `React` `Framer Motion` `Vercel` `Resend`
+
+[![Live Site](https://img.shields.io/badge/Live-aureonstudio.co.uk-00c853?style=flat-square&logo=googlechrome&logoColor=white)](https://aureonstudio.co.uk)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Meal Mate
+**AI Food & Nutrition App**
+
+Snap a photo → instant meal identification and nutrition breakdown. AI recipe generation from your pantry, calorie tracking, streaks & grocery lists. Vision backend in FastAPI + PyTorch.
+
+`React Native` `TypeScript` `Python` `FastAPI` `PyTorch`
+
+[![Case Study](https://img.shields.io/badge/Case_Study-daudrazzaq.me-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://daudrazzaq.me/work/meal-mate)
+
+</td>
+</tr>
 </table>
 
-<br>
-
-<!-- ═══════════ PROFILE SUMMARY CARDS ═══════════ -->
-
 <div align="center">
-  
-  ## 🧬 Deep Dive
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaudRazzaq&theme=transparent" width="100%" />
-</div>
+**➕ More projects:** TrendUp (Web3 social) · Cleaners Choice (on-demand services) · Luci (booking marketplace, EN/TH) · Cafena (Next.js e-commerce)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaudRazzaq&theme=transparent" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaudRazzaq&theme=transparent" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaudRazzaq&theme=transparent&utcOffset=5" width="32%" />
-</div>
-
-<br>
-
-<!-- ═══════════ TROPHIES ═══════════ -->
-
-<div align="center">
-  
-  ## 🏆 GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=DaudRazzaq&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=10" width="100%" />
+[![View All Projects](https://img.shields.io/badge/View_All_10_Projects-daudrazzaq.me/work-00d4ff?style=for-the-badge&logo=safari&logoColor=white&labelColor=0a0f1e)](https://daudrazzaq.me/work)
 
 </div>
 
-<br>
+<br/>
 
-<!-- ═══════════ CONNECT ═══════════ -->
+<!-- ══════════════════════ EXPERIENCE TIMELINE ══════════════════════ -->
+
+## 💼 Experience
+
+| | Role | Company | Period |
+|---|---|---|---|
+| 🟢 | **Founder & Lead Developer** | [Aureon Studio](https://aureonstudio.co.uk) — Remote, Global Clients | 2026 – Present |
+| 🔵 | **React Native Developer** | Webexhaust — Remote | Oct 2025 – Jun 2026 |
+| 🔵 | **React Native Developer** | 7 Kings Code — Lahore | Mar 2025 – Sep 2025 |
+| 🔵 | **React Native Developer** | Wise360 Solutions — Abbottabad *(cut app load times ~30%)* | Feb 2023 – Mar 2025 |
+
+<br/>
+
+<!-- ══════════════════════ CERTIFICATIONS ══════════════════════ -->
+
+## 📜 Certifications
 
 <div align="center">
-  
-  ## 🌐 Let's Build Something Great
 
-  <br>
+[![Meta](https://img.shields.io/badge/Meta-React_Native_Specialization_(8_courses)-0668e1?style=for-the-badge&logo=meta&logoColor=white&labelColor=0a0f1e)](https://coursera.org/verify/specialization/DS8NWQGQNBAB)
+[![IBM](https://img.shields.io/badge/IBM-Front--End_Apps_with_React-054ada?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a0f1e)](https://coursera.org/verify/WTJPNLAKXVDM)
+[![Meta](https://img.shields.io/badge/Meta-Intro_to_Front--End_Development-0668e1?style=for-the-badge&logo=meta&logoColor=white&labelColor=0a0f1e)](https://coursera.org/verify/MLHJ3WLFKJGP)
 
-  <a href="https://www.daud.codes" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=58a6ff" alt="Portfolio" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/daud-razzaq" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:daud.razzaq@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@daud.razzaq" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/DaudRazzaq" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br><br>
-
-  ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   "First, solve the problem. Then, write the code."          ║
-  ║                                         — John Johnson       ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
-  ```
+🎓 **B.S. Software Engineering** — COMSATS University Islamabad · 2021–2025
 
 </div>
 
-<br>
+<br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=150&section=footer&animation=twinkling" width="100%" />
+<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaudRazzaq&show_icons=true&hide_border=true&bg_color=0a0f1e&title_color=00d4ff&text_color=a0aec0&icon_color=7b61ff&ring_color=00d4ff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRazzaq&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=00d4ff&text_color=a0aec0&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaudRazzaq&hide_border=true&background=0a0f1e&ring=00d4ff&fire=7b61ff&currStreakLabel=00d4ff&sideLabels=a0aec0&currStreakNum=ffffff&sideNums=ffffff&dates=a0aec0" width="60%"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ FOOTER / CTA ══════════════════════ -->
+
+<div align="center">
+
+## 🤝 Let's Build Something World-Class
+
+**🇸🇦 Actively seeking Senior React Native / Next.js roles in Riyadh & Jeddah**
+
+Fluent in **English** & **Urdu** · Arabic-market product experience · Available on short notice
+
+<a href="https://daudrazzaq.me/contact"><img src="https://img.shields.io/badge/💬_Start_a_Conversation-daudrazzaq.me/contact-00d4ff?style=for-the-badge&labelColor=0a0f1e"/></a>
+<a href="mailto:daudrazzaq7890@gmail.com"><img src="https://img.shields.io/badge/📧_Email-daudrazzaq7890@gmail.com-ea4335?style=for-the-badge&labelColor=0a0f1e"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a0f1e,100:050810&height=120&section=footer" width="100%"/>
+
+</div>
