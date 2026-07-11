@@ -97,5 +97,5 @@
     <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="500" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="1" fill="#5a6a8a">20+ PRODUCTS SHIPPED&#160;&#160;&#8226;&#160;&#160;5 COUNTRIES&#160;&#160;&#8226;&#160;&#160;</text>
+  <text x="500" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="1" fill="#5a6a8a">3+ PRODUCTS SHIPPED&#160;&#160;&#8226;&#160;&#160;5 COUNTRIES&#160;&#160;&#8226;&#160;&#160;</text>
 </svg>
